@@ -12,7 +12,7 @@
     <img src="https://img.icons8.com/color/48/telegram-app.png" alt="Telegram" width="40" height="40"/>
   </a>
   <a href="https://discord.com/users/tim1260122" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" alt="Discord" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discord/discord-original.svg" alt="Discord" width="40" height="40"/>
   </a>
   <a href="mailto:chengze.kindly.tech@gmail.com" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Gmail" width="40" height="40"/>

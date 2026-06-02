@@ -23,7 +23,7 @@
 </div>
 
 <p align="center">
-  <img src="https://ghstats.dev/api/card?username=tim13&theme=catppuccin&size=compact&compact_count=3&hide=stars" />
+  <img src="https://ghstats.dev/api/card?username=Tim's&theme=catppuccin&size=compact&compact_count=3&hide=stars" />
 </p>
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=tim13&theme=tokyo-night)](https://github.com/chengze126-dev/chengze126-dev)

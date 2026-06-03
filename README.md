@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/dmarsal90/dmarsal90/main/assets/header.svg" alt="header" style="margin-bottom:100px;" width="1000px" height="50px"/>
+<img src="https://raw.githubusercontent.com/dmarsal90/dmarsal90/main/assets/header.svg" alt="header" style="margin-bottom:100px;" width="1000" height="50"/>
 <h1 align="center">Hi 👋, I'm Tim Demars</h1>
 <h3 align="center">A Passionate Full Stack Developer</h3>
 <p align="left">

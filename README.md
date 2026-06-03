@@ -6,6 +6,11 @@
   "Currently, I'm focused on building scalable web applications with modern JavaScript ecosystems. I enjoy working at the intersection of product and engineering, turning complex requirements into maintainable systems   that users actually love.",<br>
   "When I'm not coding, you'll find me exploring new tech, contributing to open source, or refining side projects that push my skills further.",
 </p>
+<div align="center">
+  <img src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Developer Coding" width="500" />
+</div>
+<img src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Developer Coding" width="500" />
+
 <h3 align="center">Connect with me:</h3>
 <p align="center">
   <a href="https://t.me/luckytime_126" target="_blank">
@@ -20,7 +25,6 @@
 </p>
 <div align="center">
   <img src="https://raw.githubusercontent.com/thangpaisen/thangpaisen/output/snake.svg" alt="Snake animation" />
-  <img src="https://media0.giphy.com/media/1oF1KAEYvmXBMo6uTS/giphy.gif" alt="AI Coding" width="500" />
 </div>
 
 <h3 align="left">Languages and Tools:</h3>

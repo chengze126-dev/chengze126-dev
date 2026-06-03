@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/dmarsal90/dmarsal90/main/assets/header.svg" alt="header" style="margin-bottom:100px;" height="50px"/>
+<img src="https://raw.githubusercontent.com/dmarsal90/dmarsal90/main/assets/header.svg" alt="header" style="margin-bottom:100px;" width="1000px" height="50px"/>
 <h1 align="center">Hi 👋, I'm Tim Demars</h1>
 <h3 align="center">A Passionate Full Stack Developer</h3>
 <p align="left">
@@ -7,8 +7,8 @@
   "Currently, I'm focused on building scalable web applications with modern JavaScript ecosystems. I enjoy working at the intersection of product and engineering, turning complex requirements into maintainable systems   that users actually love.",<br>
   "When I'm not coding, you'll find me exploring new tech, contributing to open source, or refining side projects that push my skills further.",
 </p>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
   <a href="https://t.me/luckytime_126" target="_blank">
     <img src="https://img.icons8.com/color/48/telegram-app.png" alt="Telegram" width="40" height="40"/>
   </a>

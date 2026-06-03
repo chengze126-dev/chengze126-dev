@@ -9,8 +9,6 @@
 <div align="center">
   <img src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Developer Coding" width="500" />
 </div>
-<img src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Developer Coding" width="500" />
-
 <h3 align="center">Connect with me:</h3>
 <p align="center">
   <a href="https://t.me/luckytime_126" target="_blank">

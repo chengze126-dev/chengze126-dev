@@ -1,11 +1,29 @@
 <h1 align="center">Hi 👋, I'm Tim Demars</h1>
 <h3 align="center">A Passionate Full Stack Developer</h3>
-<p align="left">
-  "I'm a full stack developer with 9 years of experience building products across the entire stack — from database design and API architecture to polished, responsive frontends."<br>
-  "I care about clean code, thoughtful UX, and shipping software that holds up in production.",
-  "Currently, I'm focused on building scalable web applications with modern JavaScript ecosystems. I enjoy working at the intersection of product and engineering, turning complex requirements into maintainable systems   that users actually love.",<br>
-  "When I'm not coding, you'll find me exploring new tech, contributing to open source, or refining side projects that push my skills further.",
-</p>
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+%7C+9+Years+of+Experience;Building+Scalable+Web+Applications;Clean+Code+%2B+Thoughtful+UX+%2B+Real+Impact)](https://git.io/typing-svg)
+
+</div>
+
+---
+
+### 🧠 About Me
+
+🚀 **Full Stack Developer** with **9 years of experience** building products across the entire stack —
+from database design and API architecture to polished, responsive frontends.
+
+💡 I care about **clean code**, **thoughtful UX**, and shipping software that holds up in **production**.
+
+🌐 Currently focused on building **scalable web applications** with modern JavaScript ecosystems.
+I enjoy working at the intersection of **product and engineering** — turning complex requirements
+into maintainable systems that users actually love.
+
+🔧 When I'm not coding, you'll find me:
+- 🔍 Exploring new tech
+- 🌱 Contributing to open source
+- ⚡ Refining side projects that push my skills further
+
 <div align="center">
   <img src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Developer Coding" width="500" />
 </div>

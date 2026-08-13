@@ -13,7 +13,7 @@ from database design and API architecture to polished, responsive frontends.
 
 💡 I care about **clean code**, **thoughtful UX**, and shipping software that holds up in **production**.
 
-🌐 Currently focused on building **scalable web applications** with modern JavaScript ecosystems.
+🌐 Currently focused on building **Scalable Web Applications** with modern JavaScript ecosystems.
 I enjoy working at the intersection of **product and engineering** — turning complex requirements
 into maintainable systems that users actually love.
 

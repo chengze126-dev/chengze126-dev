@@ -49,57 +49,10 @@ width="100%"
 ## 🚀 Featured Projects
 
 <!-- FEATURED_REPOS_START -->
-
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
-### 🤖 [AI-agent](https://github.com/chengze126-dev/AI-agent)
-
-AI-focused Python project exploring intelligent agents, automated workflows, and modern AI engineering.
-
-**Tech:** `Python` `AI` `Automation`
-
-</td>
-
-<td width="50%" valign="top">
-
-### 📄 [pyPDF](https://github.com/chengze126-dev/pyPDF)
-
-Python-based project focused on PDF and document processing.
-
-**Tech:** `Python` `Documents`
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-### ⚡ [new_res](https://github.com/chengze126-dev/new_res)
-
-TypeScript project demonstrating modern application-development practices.
-
-**Tech:** `TypeScript`
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🐍 [Django-base](https://github.com/chengze126-dev/Django-base)
-
-Backend project built around Python and Django.
-
-**Tech:** `Python` `Django`
-
-</td>
-
-</tr>
-</table>
-
+- `AI-agent` — keep this repository polished, documented, and actively maintained.
+- `pyPDF` — keep this repository polished, documented, and actively maintained.
+- `new_res` — keep this repository polished, documented, and actively maintained.
+- `Django-base` — keep this repository polished, documented, and actively maintained.
 <!-- FEATURED_REPOS_END -->
 
 <br/>
@@ -112,13 +65,14 @@ width="100%"
 ## 📈 Recent Development Activity
 
 <!-- RECENT_ACTIVITY_START -->
-
-- 🚀 Building and improving production-ready applications
-- 🤖 Exploring AI agents and intelligent automation
-- 🐍 Developing Python backend systems
-- ⚡ Working with TypeScript and modern web technologies
-- 🌱 Contributing to open-source projects
-
+- **2026-09-02** — Revise README for clarity and structure
+- **2026-09-02** — chore: refresh profile and social drafts
+- **2026-09-02** — Revise README for clarity and consistency
+- **2026-09-02** — chore: refresh profile and social drafts
+- **2026-09-02** — chore: refresh profile and social drafts
+- **2026-09-02** — chore: refresh profile and social drafts
+- **2026-09-02** — Add GitHub profile growth automation
+- **2026-08-18** — Merge pull request #2 from dieudonneAwa/patch-2
 <!-- RECENT_ACTIVITY_END -->
 
 <br/>

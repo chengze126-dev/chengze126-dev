@@ -19,26 +19,27 @@ width="100%"
 
 ## 🧠 About Me
 
-🚀 **Senior Full-Stack Engineer with 10+ years of experience** building scalable web applications, SaaS platforms, APIs, backend systems, cloud solutions, and modern user experiences.
+🚀 **Senior Full-Stack Engineer with 10+ years of experience** building scalable web applications, SaaS platforms, backend systems, APIs, cloud solutions, and modern user experiences.
 
 💡 I focus on **clean architecture, maintainable code, performance, thoughtful UX, scalability, and production reliability**.
 
-🌐 My core engineering stack includes **Python, Node.js, React, Next.js, TypeScript, PostgreSQL, AWS, Docker, and CI/CD**.
+🌐 My core stack includes **Python, Node.js, React, Next.js, TypeScript, PostgreSQL, AWS, Docker, and CI/CD**.
 
 🤖 I also work with **AI/LLM integrations, RAG systems, AI agents, workflow automation, and intelligent document-processing solutions**.
 
-🎯 I enjoy turning complex product requirements into reliable software that is easy to maintain and ready to scale.
+🎯 I enjoy turning complex business requirements into reliable products that are maintainable, scalable, and ready for production.
+
+### 🔭 Currently Focused On
+
+- 🤖 AI-powered applications
+- ⚡ Scalable SaaS products
+- 🐍 Python backend systems
+- 🔌 APIs and integrations
+- ☁️ Cloud architecture
+- 🔄 Developer automation
+- 🌱 Open-source contributions
 
 <br/>
-
-### 🔭 Currently focused on
-
-- Building scalable SaaS products
-- AI-powered web applications
-- Backend architecture and APIs
-- Developer automation
-- Open-source contributions
-- Production performance and reliability
 
 <img
 src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"
@@ -48,11 +49,60 @@ width="100%"
 ## 🚀 Featured Projects
 
 <!-- FEATURED_REPOS_START -->
-- `AI-agent` — keep this repository polished, documented, and actively maintained.
-- `pyPDF` — keep this repository polished, documented, and actively maintained.
-- `new_res` — keep this repository polished, documented, and actively maintained.
-- `Django-base` — keep this repository polished, documented, and actively maintained.
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+### 🤖 [AI-agent](https://github.com/chengze126-dev/AI-agent)
+
+AI-focused Python project exploring intelligent agents, automated workflows, and modern AI engineering.
+
+**Tech:** `Python` `AI` `Automation`
+
+</td>
+
+<td width="50%" valign="top">
+
+### 📄 [pyPDF](https://github.com/chengze126-dev/pyPDF)
+
+Python-based project focused on PDF and document processing.
+
+**Tech:** `Python` `Documents`
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### ⚡ [new_res](https://github.com/chengze126-dev/new_res)
+
+TypeScript project demonstrating modern application-development practices.
+
+**Tech:** `TypeScript`
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🐍 [Django-base](https://github.com/chengze126-dev/Django-base)
+
+Backend project built around Python and Django.
+
+**Tech:** `Python` `Django`
+
+</td>
+
+</tr>
+</table>
+
 <!-- FEATURED_REPOS_END -->
+
+<br/>
 
 <img
 src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"
@@ -62,15 +112,16 @@ width="100%"
 ## 📈 Recent Development Activity
 
 <!-- RECENT_ACTIVITY_START -->
-- **2026-09-02** — Revise README for clarity and consistency
-- **2026-09-02** — chore: refresh profile and social drafts
-- **2026-09-02** — chore: refresh profile and social drafts
-- **2026-09-02** — chore: refresh profile and social drafts
-- **2026-09-02** — Add GitHub profile growth automation
-- **2026-08-18** — Merge pull request #2 from dieudonneAwa/patch-2
-- **2026-08-18** — Create SECURITY.md
-- **2026-08-13** — Merge pull request #1 from dieudonneAwa/patch-1
+
+- 🚀 Building and improving production-ready applications
+- 🤖 Exploring AI agents and intelligent automation
+- 🐍 Developing Python backend systems
+- ⚡ Working with TypeScript and modern web technologies
+- 🌱 Contributing to open-source projects
+
 <!-- RECENT_ACTIVITY_END -->
+
+<br/>
 
 <img
 src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"
@@ -79,83 +130,77 @@ width="100%"
 
 ## 🛠️ Technology Stack
 
-### Backend
+### ⚙️ Backend
 
 <p align="left">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" alt="Python"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="44" height="44" alt="Python"/>
 &nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="45" height="45" alt="Django"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="44" height="44" alt="Django"/>
 &nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" height="45" alt="Node.js"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="44" height="44" alt="Node.js"/>
 &nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="45" height="45" alt="Express"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="44" height="44" alt="Express"/>
 &nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="45" height="45" alt=".NET"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="44" height="44" alt=".NET"/>
 &nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="45" height="45" alt="GraphQL"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="44" height="44" alt="GraphQL"/>
 
 </p>
 
-### Frontend
+### 🎨 Frontend
 
 <p align="left">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" height="45" alt="React"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="44" height="44" alt="React"/>
 &nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="45" height="45" alt="Next.js"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="44" height="44" alt="Next.js"/>
 &nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45" height="45" alt="TypeScript"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="44" height="44" alt="TypeScript"/>
 &nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="44" height="44" alt="JavaScript"/>
 &nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" height="45" alt="HTML5"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="44" height="44" alt="HTML"/>
 &nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" height="45" alt="CSS3"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="44" height="44" alt="CSS"/>
 
 </p>
 
-### Databases
+### 🗄️ Databases
 
 <p align="left">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45" height="45" alt="PostgreSQL"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="44" height="44" alt="PostgreSQL"/>
 &nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45" height="45" alt="MongoDB"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="44" height="44" alt="MongoDB"/>
 &nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="45" height="45" alt="Redis"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="44" height="44" alt="Redis"/>
 &nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" height="45" alt="MySQL"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="44" height="44" alt="MySQL"/>
 
 </p>
 
-### Cloud & DevOps
+### ☁️ Cloud & DevOps
 
 <p align="left">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="50" height="50" alt="AWS"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="48" height="48" alt="AWS"/>
 &nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" height="50" alt="Docker"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48" height="48" alt="Docker"/>
 &nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45" alt="Git"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="44" height="44" alt="Git"/>
 &nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45" height="45" alt="Linux"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="44" height="44" alt="Linux"/>
 &nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="45" height="45" alt="Nginx"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="44" height="44" alt="Nginx"/>
 
 </p>
 
-### AI & Automation
+### 🤖 AI & Automation
 
-<p>
+`OpenAI` • `LLMs` • `RAG` • `AI Agents` • `Prompt Engineering` • `Workflow Automation` • `Document Processing` • `Vector Search`
 
-![OpenAI](https://img.shields.io/badge/OpenAI-LLM-412991?style=flat-square&logo=openai&logoColor=white)
-![AI Agents](https://img.shields.io/badge/AI-Agents-00A67E?style=flat-square)
-![RAG](https://img.shields.io/badge/RAG-Systems-4A90E2?style=flat-square)
-![Automation](https://img.shields.io/badge/Workflow-Automation-orange?style=flat-square)
-![Vector Search](https://img.shields.io/badge/Vector-Search-purple?style=flat-square)
-
-</p>
+<br/>
 
 <img
 src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"
@@ -168,20 +213,20 @@ width="100%"
 
 <tr>
 
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🌐 Product Engineering
 
 - SaaS platforms
 - MVP development
 - Full-stack applications
-- Admin dashboards
 - Customer portals
+- Admin dashboards
 - Enterprise web applications
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
 ### ⚙️ Backend Engineering
 
@@ -198,20 +243,20 @@ width="100%"
 
 <tr>
 
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🤖 AI Engineering
 
 - AI/LLM applications
 - RAG systems
 - AI agents
-- Document processing
 - Intelligent automation
+- Document processing
 - Semantic search
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
 ### ☁️ Cloud & DevOps
 
@@ -228,47 +273,72 @@ width="100%"
 
 </table>
 
-<img
-src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"
-width="100%"
-/>
-
-## 📊 GitHub Overview
-
-<div align="center">
-
-<img
-src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chengze126-dev&theme=github_dark"
-width="96%"
-alt="GitHub Profile Summary"
-/>
-
-<br/><br/>
-
-<img
-src="https://github-readme-streak-stats.herokuapp.com/?user=chengze126-dev&theme=github-dark-blue&hide_border=true"
-width="55%"
-alt="GitHub Streak"
-/>
-
-</div>
+<br/>
 
 <img
 src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"
 width="100%"
 />
 
-## 📈 Contribution Activity
+## 🧩 GitHub Highlights
+
+<table>
+
+<tr>
+
+<td width="33%" align="center">
+
+### 🤖 AI
+
+Building practical AI agents, RAG applications, and intelligent automation.
+
+</td>
+
+<td width="33%" align="center">
+
+### ⚡ Full Stack
+
+Creating scalable applications from frontend UX to backend architecture.
+
+</td>
+
+<td width="33%" align="center">
+
+### 🌱 Open Source
+
+Learning, contributing, improving projects, and collaborating with developers.
+
+</td>
+
+</tr>
+
+</table>
+
+<br/>
 
 <div align="center">
 
+### Explore My Repositories
+
+<a href="https://github.com/chengze126-dev?tab=repositories">
 <img
-src="https://github-readme-activity-graph.vercel.app/graph?username=chengze126-dev&theme=github-compact&hide_border=true&area=true"
-width="96%"
-alt="GitHub Activity Graph"
+src="https://img.shields.io/badge/View_All_Repositories-181717?style=for-the-badge&logo=github&logoColor=white"
+alt="Repositories"
 />
+</a>
+
+&nbsp;
+
+<a href="https://github.com/chengze126-dev?tab=stars">
+<img
+src="https://img.shields.io/badge/My_Stars-181717?style=for-the-badge&logo=github&logoColor=white"
+alt="Stars"
+/>
+</a>
 
 </div>
+
+<br/>
 
 <img
 src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"
@@ -285,10 +355,12 @@ I'm interested in collaborating on:
 - ☁️ Cloud-native systems
 - ⚡ SaaS products
 - 🛠️ Developer tools
-- 🔄 Automation projects
-- 🌱 Open-source software
+- 🔄 Automation systems
+- 🌱 Open-source projects
 
-Feel free to reach out if you're building something interesting.
+If you're working on something interesting, feel free to reach out.
+
+<br/>
 
 <img
 src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"
@@ -324,21 +396,25 @@ alt="Email"
 />
 </a>
 
+&nbsp;
+
+<a href="https://github.com/chengze126-dev">
+<img
+src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"
+alt="GitHub"
+/>
+</a>
+
 </div>
 
-<br/>
-
-<img
-src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"
-width="100%"
-/>
+<br/><br/>
 
 <div align="center">
 
 ### 🚀 Build • Learn • Contribute • Improve
 
 Senior Full-Stack Engineer focused on building  
-**scalable, maintainable and production-ready software.**
+**scalable, maintainable, and production-ready software.**
 
 <br/>
 

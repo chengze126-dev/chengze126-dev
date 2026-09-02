@@ -48,57 +48,10 @@ width="100%"
 ## 🚀 Featured Projects
 
 <!-- FEATURED_REPOS_START -->
-
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
-### 🤖 [AI-agent](https://github.com/chengze126-dev/AI-agent)
-
-Python-based AI project focused on intelligent agent workflows and automation.
-
-**Stack:** `Python` `AI` `Automation`
-
-</td>
-
-<td width="50%" valign="top">
-
-### 📄 [pyPDF](https://github.com/chengze126-dev/pyPDF)
-
-Python project focused on PDF and document-related processing.
-
-**Stack:** `Python`
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-### ⚡ [new_res](https://github.com/chengze126-dev/new_res)
-
-TypeScript project demonstrating modern application development.
-
-**Stack:** `TypeScript`
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🐍 [Django-base](https://github.com/chengze126-dev/Django-base)
-
-Backend project built around Python and Django technologies.
-
-**Stack:** `Python` `Django`
-
-</td>
-
-</tr>
-</table>
-
+- `AI-agent` — keep this repository polished, documented, and actively maintained.
+- `pyPDF` — keep this repository polished, documented, and actively maintained.
+- `new_res` — keep this repository polished, documented, and actively maintained.
+- `Django-base` — keep this repository polished, documented, and actively maintained.
 <!-- FEATURED_REPOS_END -->
 
 <img
@@ -109,13 +62,14 @@ width="100%"
 ## 📈 Recent Development Activity
 
 <!-- RECENT_ACTIVITY_START -->
-
-- 🚀 Building and improving production-ready projects
-- 🤖 Exploring AI agents and intelligent automation
-- 🐍 Working with Python-based applications
-- ⚡ Developing modern TypeScript solutions
-- 🌱 Contributing to open-source projects
-
+- **2026-09-02** — Revise README for clarity and consistency
+- **2026-09-02** — chore: refresh profile and social drafts
+- **2026-09-02** — chore: refresh profile and social drafts
+- **2026-09-02** — chore: refresh profile and social drafts
+- **2026-09-02** — Add GitHub profile growth automation
+- **2026-08-18** — Merge pull request #2 from dieudonneAwa/patch-2
+- **2026-08-18** — Create SECURITY.md
+- **2026-08-13** — Merge pull request #1 from dieudonneAwa/patch-1
 <!-- RECENT_ACTIVITY_END -->
 
 <img

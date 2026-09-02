@@ -6,72 +6,140 @@ Senior Full-Stack Engineer | SaaS • AI • APIs • Cloud
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=750&lines=Senior+Full+Stack+Engineer+%7C+10%2B+Years+Experience;Building+Scalable+SaaS+%26+Web+Applications;Python+%7C+Node.js+%7C+React+%7C+Next.js;AI%2FLLM+%7C+RAG+%7C+Automation;Clean+Architecture+%7C+Production-Ready+Software)](https://git.io/typing-svg)
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=760&lines=Senior+Full-Stack+Engineer+%7C+10%2B+Years;Building+Scalable+Web+%26+SaaS+Applications;Python+%7C+Node.js+%7C+React+%7C+Next.js;AI%2FLLM+%7C+RAG+%7C+Automation;From+Architecture+to+Production)](https://git.io/typing-svg)
 
 </div>
 
+<br/>
+
+<img
+src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"
+width="100%"
+/>
+
 ## 🧠 About Me
 
-🚀 **Senior Full-Stack Engineer with 10+ years of experience** designing and building scalable SaaS platforms, backend systems, APIs, cloud applications, and modern user experiences.
+🚀 **Senior Full-Stack Engineer with 10+ years of experience** building scalable web applications, SaaS platforms, APIs, backend systems, cloud solutions, and modern user experiences.
 
-💡 I focus on **clean architecture, maintainable code, thoughtful UX, scalability, and production reliability**.
+💡 I focus on **clean architecture, maintainable code, performance, thoughtful UX, scalability, and production reliability**.
 
-🌐 My primary technologies include **Python, Node.js, .NET, React, Next.js, TypeScript, PostgreSQL, AWS, Docker, and CI/CD**.
+🌐 My core engineering stack includes **Python, Node.js, React, Next.js, TypeScript, PostgreSQL, AWS, Docker, and CI/CD**.
 
-🤖 I also work with **AI/LLM integrations, RAG systems, intelligent automation, AI agents, and document-processing workflows**.
+🤖 I also work with **AI/LLM integrations, RAG systems, AI agents, workflow automation, and intelligent document-processing solutions**.
 
-🎯 I enjoy turning complex business requirements into reliable, maintainable products that can grow from MVP to production scale.
+🎯 I enjoy turning complex product requirements into reliable software that is easy to maintain and ready to scale.
 
-🔧 When I'm not coding, you'll find me:
+<br/>
 
-- 🔍 Exploring new technologies
-- 🌱 Contributing to open-source projects
-- 🤖 Experimenting with AI and automation
-- ⚡ Improving side projects and developer tools
-- 📚 Learning better approaches to scalable software architecture
+### 🔭 Currently focused on
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+- Building scalable SaaS products
+- AI-powered web applications
+- Backend architecture and APIs
+- Developer automation
+- Open-source contributions
+- Production performance and reliability
+
+<img
+src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"
+width="100%"
+/>
 
 ## 🚀 Featured Projects
 
 <!-- FEATURED_REPOS_START -->
-- `AI-agent` — keep this repository polished, documented, and actively maintained.
-- `pyPDF` — keep this repository polished, documented, and actively maintained.
-- `new_res` — keep this repository polished, documented, and actively maintained.
-- `Django-base` — keep this repository polished, documented, and actively maintained.
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+### 🤖 [AI-agent](https://github.com/chengze126-dev/AI-agent)
+
+Python-based AI project focused on intelligent agent workflows and automation.
+
+**Stack:** `Python` `AI` `Automation`
+
+</td>
+
+<td width="50%" valign="top">
+
+### 📄 [pyPDF](https://github.com/chengze126-dev/pyPDF)
+
+Python project focused on PDF and document-related processing.
+
+**Stack:** `Python`
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### ⚡ [new_res](https://github.com/chengze126-dev/new_res)
+
+TypeScript project demonstrating modern application development.
+
+**Stack:** `TypeScript`
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🐍 [Django-base](https://github.com/chengze126-dev/Django-base)
+
+Backend project built around Python and Django technologies.
+
+**Stack:** `Python` `Django`
+
+</td>
+
+</tr>
+</table>
+
 <!-- FEATURED_REPOS_END -->
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img
+src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"
+width="100%"
+/>
 
 ## 📈 Recent Development Activity
 
 <!-- RECENT_ACTIVITY_START -->
-- **2026-09-02** — chore: refresh profile and social drafts
-- **2026-09-02** — chore: refresh profile and social drafts
-- **2026-09-02** — Add GitHub profile growth automation
-- **2026-08-18** — Merge pull request #2 from dieudonneAwa/patch-2
-- **2026-08-18** — Create SECURITY.md
-- **2026-08-13** — Merge pull request #1 from dieudonneAwa/patch-1
-- **2026-08-13** — Update capitalization in README for consistency
-- **2026-06-04** — Update README.md
+
+- 🚀 Building and improving production-ready projects
+- 🤖 Exploring AI agents and intelligent automation
+- 🐍 Working with Python-based applications
+- ⚡ Developing modern TypeScript solutions
+- 🌱 Contributing to open-source projects
+
 <!-- RECENT_ACTIVITY_END -->
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img
+src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"
+width="100%"
+/>
 
-## 🛠️ Core Technologies
+## 🛠️ Technology Stack
 
 ### Backend
 
 <p align="left">
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="45" height="45"/>
-<img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="45" height="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="45" height="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="45" height="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt=".NET" width="45" height="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg" alt="GraphQL" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" alt="Python"/>
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="45" height="45" alt="Django"/>
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" height="45" alt="Node.js"/>
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="45" height="45" alt="Express"/>
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="45" height="45" alt=".NET"/>
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="45" height="45" alt="GraphQL"/>
 
 </p>
 
@@ -79,24 +147,31 @@ Senior Full-Stack Engineer | SaaS • AI • APIs • Cloud
 
 <p align="left">
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="45" height="45"/>
-<img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="45" height="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="45" height="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="45" height="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="45" height="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="45" height="45"/>
-<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" height="45" alt="React"/>
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="45" height="45" alt="Next.js"/>
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45" height="45" alt="TypeScript"/>
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript"/>
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" height="45" alt="HTML5"/>
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" height="45" alt="CSS3"/>
 
 </p>
 
-### Database & Data
+### Databases
 
 <p align="left">
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="45" height="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="45" height="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="Redis" width="45" height="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45" height="45" alt="PostgreSQL"/>
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45" height="45" alt="MongoDB"/>
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="45" height="45" alt="Redis"/>
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" height="45" alt="MySQL"/>
 
 </p>
 
@@ -104,154 +179,215 @@ Senior Full-Stack Engineer | SaaS • AI • APIs • Cloud
 
 <p align="left">
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="45" height="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="45" height="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="45" height="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="45" height="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="Nginx" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="50" height="50" alt="AWS"/>
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" height="50" alt="Docker"/>
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45" alt="Git"/>
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45" height="45" alt="Linux"/>
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="45" height="45" alt="Nginx"/>
 
 </p>
 
-### AI / ML / Automation
+### AI & Automation
 
 <p>
 
-`OpenAI` • `LLM` • `RAG` • `AI Agents` • `Prompt Engineering` • `Automation` • `Document Processing` • `Vector Search`
+![OpenAI](https://img.shields.io/badge/OpenAI-LLM-412991?style=flat-square&logo=openai&logoColor=white)
+![AI Agents](https://img.shields.io/badge/AI-Agents-00A67E?style=flat-square)
+![RAG](https://img.shields.io/badge/RAG-Systems-4A90E2?style=flat-square)
+![Automation](https://img.shields.io/badge/Workflow-Automation-orange?style=flat-square)
+![Vector Search](https://img.shields.io/badge/Vector-Search-purple?style=flat-square)
 
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img
+src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"
+width="100%"
+/>
 
 ## 💼 What I Can Build
 
-- ⚡ SaaS platforms and MVPs
-- 🌐 Full-stack web applications
-- 🔌 REST and GraphQL APIs
-- 🧠 AI/LLM-powered applications
-- 📚 RAG and knowledge-search systems
-- 🤖 AI agents and workflow automation
-- ☁️ Cloud-native applications
-- 💳 Subscription and payment systems
-- 📊 Admin dashboards and analytics
-- 🔐 Authentication and role-based systems
-- 🐳 Dockerized production environments
-- 🚀 CI/CD and deployment pipelines
-- 🔧 Existing application modernization
-- ⚙️ Performance optimization and debugging
+<table>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<tr>
+
+<td width="50%">
+
+### 🌐 Product Engineering
+
+- SaaS platforms
+- MVP development
+- Full-stack applications
+- Admin dashboards
+- Customer portals
+- Enterprise web applications
+
+</td>
+
+<td width="50%">
+
+### ⚙️ Backend Engineering
+
+- REST APIs
+- GraphQL APIs
+- Microservices
+- Authentication systems
+- Database architecture
+- Third-party integrations
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+### 🤖 AI Engineering
+
+- AI/LLM applications
+- RAG systems
+- AI agents
+- Document processing
+- Intelligent automation
+- Semantic search
+
+</td>
+
+<td width="50%">
+
+### ☁️ Cloud & DevOps
+
+- AWS deployments
+- Docker environments
+- CI/CD pipelines
+- Production optimization
+- Application modernization
+- Infrastructure automation
+
+</td>
+
+</tr>
+
+</table>
+
+<img
+src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"
+width="100%"
+/>
 
 ## 📊 GitHub Overview
 
 <div align="center">
 
 <img
-  src="https://github-readme-stats.vercel.app/api?username=chengze126-dev&show_icons=true&theme=tokyonight&hide_border=true"
-  height="165"
+src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chengze126-dev&theme=github_dark"
+width="96%"
+alt="GitHub Profile Summary"
 />
 
+<br/><br/>
+
 <img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=chengze126-dev&layout=compact&theme=tokyonight&hide_border=true"
-  height="165"
+src="https://github-readme-streak-stats.herokuapp.com/?user=chengze126-dev&theme=github-dark-blue&hide_border=true"
+width="55%"
+alt="GitHub Streak"
 />
 
 </div>
+
+<img
+src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"
+width="100%"
+/>
+
+## 📈 Contribution Activity
 
 <div align="center">
 
 <img
-  src="https://github-readme-streak-stats.herokuapp.com/?user=chengze126-dev&theme=tokyonight&hide_border=true"
-  alt="GitHub Streak"
+src="https://github-readme-activity-graph.vercel.app/graph?username=chengze126-dev&theme=github-compact&hide_border=true&area=true"
+width="96%"
+alt="GitHub Activity Graph"
 />
 
 </div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<div align="center">
 
 <img
-  src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
-  alt="Developer Coding"
-  width="500"
+src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"
+width="100%"
 />
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🤝 Open Source & Collaboration
 
 I'm interested in collaborating on:
 
-- AI and LLM applications
-- SaaS products
-- Python projects
-- React / Next.js applications
-- Developer tools
-- Automation systems
-- Open-source projects
+- 🤖 AI & LLM applications
+- 🐍 Python projects
+- ⚛️ React / Next.js applications
+- ☁️ Cloud-native systems
+- ⚡ SaaS products
+- 🛠️ Developer tools
+- 🔄 Automation projects
+- 🌱 Open-source software
 
-If you're building something interesting, feel free to connect.
+Feel free to reach out if you're building something interesting.
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img
+src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"
+width="100%"
+/>
 
-<h3 align="center">Connect With Me</h3>
-
-<p align="center">
-
-<a href="https://t.me/luckytime_126" target="_blank">
-  <img
-    src="https://img.icons8.com/color/48/telegram-app.png"
-    alt="Telegram"
-    width="40"
-    height="40"
-  />
-</a>
-
-&nbsp;&nbsp;&nbsp;
-
-<a href="https://discord.com/users/tim1260122" target="_blank">
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg"
-    alt="Discord"
-    width="40"
-    height="40"
-  />
-</a>
-
-&nbsp;&nbsp;&nbsp;
-
-<a href="mailto:chengze.kindly.tech@gmail.com">
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg"
-    alt="Gmail"
-    width="40"
-    height="40"
-  />
-</a>
-
-</p>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 🐍 Contribution Activity
+## 🤝 Let's Connect
 
 <div align="center">
 
+<a href="https://t.me/luckytime_126">
 <img
-  src="https://raw.githubusercontent.com/chengze126-dev/chengze126-dev/output/snake.svg"
-  alt="GitHub Contribution Snake"
+src="https://img.shields.io/badge/Telegram-Connect-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"
+alt="Telegram"
 />
+</a>
+
+&nbsp;
+
+<a href="https://discord.com/users/tim1260122">
+<img
+src="https://img.shields.io/badge/Discord-Connect-5865F2?style=for-the-badge&logo=discord&logoColor=white"
+alt="Discord"
+/>
+</a>
+
+&nbsp;
+
+<a href="mailto:chengze.kindly.tech@gmail.com">
+<img
+src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
+alt="Email"
+/>
+</a>
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<br/>
+
+<img
+src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"
+width="100%"
+/>
 
 <div align="center">
 
 ### 🚀 Build • Learn • Contribute • Improve
 
-**Thanks for visiting my GitHub profile!**
+Senior Full-Stack Engineer focused on building  
+**scalable, maintainable and production-ready software.**
+
+<br/>
+
+⭐ **Thanks for visiting my GitHub profile!**
 
 </div>

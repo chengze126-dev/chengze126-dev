@@ -1,0 +1,25 @@
+{
+  "name": "Tim Demars",
+  "headline": "Senior Full-Stack Engineer | SaaS • AI • APIs • Cloud",
+  "bio": "I build scalable SaaS platforms, APIs, cloud systems, automation, and AI-powered applications.",
+  "skills": [
+    "Python",
+    "Django",
+    "FastAPI",
+    "Node.js",
+    "React",
+    "Next.js",
+    "TypeScript",
+    "AWS",
+    "Docker",
+    "CI/CD",
+    "AI/LLM",
+    "RAG"
+  ],
+  "featured_repositories": [
+    "AI-agent",
+    "pyPDF",
+    "new_res",
+    "Django-base"
+  ]
+}

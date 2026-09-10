@@ -245,12 +245,6 @@ alt="GitHub Profile Summary"
 
 <br/><br/>
 
-<img
-src="https://github-readme-streak-stats.herokuapp.com/?user=chengze126-dev&theme=github-dark-blue&hide_border=true"
-width="55%"
-alt="GitHub Streak"
-/>
-
 </div>
 
 ## 🤝 Open Source & Collaboration

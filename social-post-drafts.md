@@ -6,10 +6,10 @@ Generated: 2026-09-10 UTC
 
 I’ve been working on a few engineering updates recently:
 
+- Update README.md
+- chore: refresh profile and social drafts
 - Remove image from README.md
 - chore: refresh profile and social drafts
-- chore: refresh profile and social drafts
-- Refactor README for improved clarity and structure
 - chore: refresh profile and social drafts
 
 I’m continuing to focus on production-ready full-stack, backend, cloud, and AI/LLM systems.
@@ -23,10 +23,10 @@ Repository: https://github.com/chengze126-dev/chengze126-dev
 Shipping consistently matters.
 
 Recent work:
+- Update README.md
+- chore: refresh profile and social drafts
 - Remove image from README.md
 - chore: refresh profile and social drafts
-- chore: refresh profile and social drafts
-- Refactor README for improved clarity and structure
 - chore: refresh profile and social drafts
 
 More on GitHub: https://github.com/chengze126-dev/chengze126-dev
@@ -35,10 +35,10 @@ More on GitHub: https://github.com/chengze126-dev/chengze126-dev
 
 This week I focused on practical engineering improvements rather than demo-only code.
 
+- Update README.md
+- chore: refresh profile and social drafts
 - Remove image from README.md
 - chore: refresh profile and social drafts
-- chore: refresh profile and social drafts
-- Refactor README for improved clarity and structure
 - chore: refresh profile and social drafts
 
 If you're working on similar Python, Node.js, React, cloud, or AI/LLM systems, feel free to check the repository and open an issue or discussion.

@@ -233,20 +233,6 @@ src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-
 width="100%"
 />
 
-## 📊 GitHub Overview
-
-<div align="center">
-
-<img
-src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chengze126-dev&theme=github_dark"
-width="96%"
-alt="GitHub Profile Summary"
-/>
-
-<br/><br/>
-
-</div>
-
 ## 🤝 Open Source & Collaboration
 
 I'm interested in collaborating on:

@@ -1,14 +1,14 @@
 # Social Post Drafts
 
-Generated: 2026-10-05 UTC
+Generated: 2026-10-12 UTC
 
 ## LinkedIn
 
 I’ve been working on a few engineering updates recently:
 
 - chore: refresh profile and social drafts
-- Update README.md
 - chore: refresh profile and social drafts
+- Update README.md
 - chore: refresh profile and social drafts
 - chore: refresh profile and social drafts
 
@@ -24,8 +24,8 @@ Shipping consistently matters.
 
 Recent work:
 - chore: refresh profile and social drafts
-- Update README.md
 - chore: refresh profile and social drafts
+- Update README.md
 - chore: refresh profile and social drafts
 - chore: refresh profile and social drafts
 
@@ -36,8 +36,8 @@ More on GitHub: https://github.com/chengze126-dev/chengze126-dev
 This week I focused on practical engineering improvements rather than demo-only code.
 
 - chore: refresh profile and social drafts
-- Update README.md
 - chore: refresh profile and social drafts
+- Update README.md
 - chore: refresh profile and social drafts
 - chore: refresh profile and social drafts
 

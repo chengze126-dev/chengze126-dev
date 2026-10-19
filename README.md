@@ -19,7 +19,7 @@ width="100%"
 
 ## 🧠 About Me
 
-🚀 **Senior Full-Stack Engineer with 10+ years of experience** building scalable web applications, SaaS platforms, APIs, backend systems, cloud solutions, and modern user experiences.
+🚀 **Senior Full-Stack Engineer with 8+ years of experience** building scalable web applications, SaaS platforms, APIs, backend systems, cloud solutions, and modern user experiences.
 
 💡 I focus on **clean architecture, maintainable code, performance, thoughtful UX, scalability, and production reliability**.
 

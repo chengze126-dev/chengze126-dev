@@ -1,6 +1,6 @@
 # Social Post Drafts
 
-Generated: 2026-10-26 UTC
+Generated: 2026-11-02 UTC
 
 ## LinkedIn
 
@@ -8,8 +8,8 @@ I’ve been working on a few engineering updates recently:
 
 - chore: refresh profile and social drafts
 - chore: refresh profile and social drafts
-- Correct years of experience in About Me section
 - chore: refresh profile and social drafts
+- Correct years of experience in About Me section
 - chore: refresh profile and social drafts
 
 I’m continuing to focus on production-ready full-stack, backend, cloud, and AI/LLM systems.
@@ -25,8 +25,8 @@ Shipping consistently matters.
 Recent work:
 - chore: refresh profile and social drafts
 - chore: refresh profile and social drafts
-- Correct years of experience in About Me section
 - chore: refresh profile and social drafts
+- Correct years of experience in About Me section
 - chore: refresh profile and social drafts
 
 More on GitHub: https://github.com/chengze126-dev/chengze126-dev
@@ -37,8 +37,8 @@ This week I focused on practical engineering improvements rather than demo-only 
 
 - chore: refresh profile and social drafts
 - chore: refresh profile and social drafts
-- Correct years of experience in About Me section
 - chore: refresh profile and social drafts
+- Correct years of experience in About Me section
 - chore: refresh profile and social drafts
 
 If you're working on similar Python, Node.js, React, cloud, or AI/LLM systems, feel free to check the repository and open an issue or discussion.
